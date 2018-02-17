@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DreadLight 1.Plugins", "DreadLight 1.Plugins.csproj", "{3DB23572-B8D4-C7F3-2D7A-D06AA55C38DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DreadLight 1", "DreadLight 1.csproj", "{3BC35760-4268-BB4C-5904-840A2C7959FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DreadLight 1.Editor", "DreadLight 1.Editor.csproj", "{896F6901-535D-C104-918E-2739D7FA8A09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DB23572-B8D4-C7F3-2D7A-D06AA55C38DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB23572-B8D4-C7F3-2D7A-D06AA55C38DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB23572-B8D4-C7F3-2D7A-D06AA55C38DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB23572-B8D4-C7F3-2D7A-D06AA55C38DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BC35760-4268-BB4C-5904-840A2C7959FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BC35760-4268-BB4C-5904-840A2C7959FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BC35760-4268-BB4C-5904-840A2C7959FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BC35760-4268-BB4C-5904-840A2C7959FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{896F6901-535D-C104-918E-2739D7FA8A09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{896F6901-535D-C104-918E-2739D7FA8A09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{896F6901-535D-C104-918E-2739D7FA8A09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{896F6901-535D-C104-918E-2739D7FA8A09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
